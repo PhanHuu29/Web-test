@@ -1,0 +1,15 @@
+/* Reading Test - extends TestUI.css */
+
+/* Ensure test-ui-page displays properly with TestNavigation */
+.test-ui-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.test-ui-page .test-container {
+    flex: 1;
+    display: flex;
+}
+
+/* Specific Reading Test customizations can be added here */
